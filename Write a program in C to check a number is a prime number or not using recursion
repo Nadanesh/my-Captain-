@@ -1,7 +1,5 @@
 #include <stdio.h>
  
-int primeno(int, int);
- 
 int main()
 {
     int num, check;
